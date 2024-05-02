@@ -1,3 +1,3 @@
-Simple example of an implementation of 3d with matrix rotations using Python and pygame
+Simple example of an implementation of 3d with matrix rotations using Python and pygame.
 
-to launch, make sure you have python and pip installed, and then use pip to install pygame
+To launch make sure you have python and pip installed and then use pip to install pygame
